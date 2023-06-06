@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yutahasegawa178
-- 👀 I’m interested in Go, React, GCP
+- 👀 I’m interested in Go, React, GCP, Design Pattern etc..
 - 🌱 I’m currently learning Software Architecture🕍
 
 <h3 align="left">Languages and Tools:</h3>
