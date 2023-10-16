@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yutahasegawa178
+- 🤖 Hi, I’m @yutahasegawa178
 - 👀 I’m interested in Go, GCP, Design Pattern etc...
 - 🌱 I’m currently learning Security, Software Architecture🕍.
 
